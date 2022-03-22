@@ -17,7 +17,7 @@
   <img align="center" alt="Akira-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Akira-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   
-  <img align="right" alt="Akira-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/1f/26/9e/1f269e518afb995b5ab57a29d7a3944c.jpg">
+  <img align="right" alt="Akira-pic" height="150" style="border-radius:50px;" src="https://avatars.cloudflare.steamstatic.com/4e8d310507ee6712afb2386c0aa13aca82efbe4d_full.jpg">
 </div>
   
   ##
